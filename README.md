@@ -71,7 +71,7 @@ Python · Ollama · Qwen 2.5 (local LLM) · CSV storage
 <img width="630" height="202" alt="image" src="https://github.com/user-attachments/assets/bb07f31c-9bef-469e-a0ca-505bca45511f" />
 
 
-**Listing and Total**
+**Listing All**
 
 <img width="718" height="241" alt="image" src="https://github.com/user-attachments/assets/5877427a-bfe6-4859-b09f-c1246c9e8e57" />
 
