@@ -1,0 +1,7 @@
+# personal expense data
+expenses.csv
+
+# python cache
+__pycache__/
+*.pyc
+.venv/
