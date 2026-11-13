@@ -68,29 +68,24 @@ Python · Ollama · Qwen 2.5 (local LLM) · CSV storage
 ## Screenshots
 **Adding expenses**
 
+<img width="630" height="202" alt="image" src="https://github.com/user-attachments/assets/bb07f31c-9bef-469e-a0ca-505bca45511f" />
 
-<img width="630" height="200" alt="image" src="https://github.com/user-attachments/assets/036b79de-e05e-4491-98d0-3db9ddef3dfb" />
 
 **Listing and Total**
 
-
-<img width="630" height="202" alt="image" src="https://github.com/user-attachments/assets/bb07f31c-9bef-469e-a0ca-505bca45511f" />
- 
-**Delete expenses**
-
-
 <img width="718" height="241" alt="image" src="https://github.com/user-attachments/assets/5877427a-bfe6-4859-b09f-c1246c9e8e57" />
 
-**Based on category**
+
+ **Delete expenses**
 
 
 <img width="718" height="504" alt="image" src="https://github.com/user-attachments/assets/10620b94-8e69-4d09-9377-cd548edc34a7" />
 
-**Total Spent this Month**
-
+**Based on category**
 
 <img width="752" height="62" alt="image" src="https://github.com/user-attachments/assets/cc4120a3-b71d-4c4c-a15c-19398375a8f0" />
 
+**Total Spent this Month**
 
 <img width="536" height="54" alt="image" src="https://github.com/user-attachments/assets/5b3b75c7-fe95-4fc7-a3ae-4d83625719d2" />
 
